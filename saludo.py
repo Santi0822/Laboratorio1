@@ -1,1 +1,1 @@
-print("Hola, este es nuestro primer laboratorio, grupo 1 jdshjshjssj") 
+print(" este es nuestro primer laboratorio, grupo 1 ") 
